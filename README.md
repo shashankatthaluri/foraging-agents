@@ -63,4 +63,4 @@ As we bid adieu to this chapter, the path ahead beckons. Future work holds promi
 
 ## 🙏 Acknowledgements
 
-A heartfelt thank you to our guiding light, the advisor Prof. Sanjay Chandrasekhar, HBCSE, TIFR, MUMBAI, INDIA. Whose wisdom illuminated the path of this exploration! 🌟🙌
+A heartfelt thank you to our guiding light, the advisor Prof. Sanjay Chandrasekharan, HBCSE, TIFR, MUMBAI, INDIA. Whose wisdom illuminated the path of this exploration! 🌟🙌
